@@ -74,9 +74,9 @@ function playpause(){
 let count = 2;
 
 function start() {
-  // count = 0;
-  // vid.src = `./movie/${count}.mp4`;
-  // vid.load();
+  count = 0;
+  vid.src = `./movie/${count}.mp4`;
+  vid.load();
   vid.play();
 }
 
