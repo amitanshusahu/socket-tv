@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'DM Sans', sans-serif;
+    transition: all 0.3s ease;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 100vw;
+  color: white;
+  background-color: rgb(68, 68, 68);
+  gap: 50px;
+}
+
+button{
+  padding: 10px;
+  font-weight: bold;
+  border: 2px solid rgb(0, 0, 0);
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.one{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+}
+
+.two{
+  display: flex;
+  gap: 10px;
+}
+
+.two .center{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.two .top{
+  display: flex;
+  justify-content: center;
+}
+
+.two .bottom{
+  display: flex;
+  justify-content: center;
+}
+
+.three {
+  display: flex;
+  gap: 20px;
+}
