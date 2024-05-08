@@ -1,6 +1,6 @@
 <h1 align = "center"> 
   
-  ![wifu](https://github.com/amitanshusahu/realtime-multiplayer-game/assets/83657737/a5e0325d-0bdc-4fa0-9adb-5bf955ff0865)  Multiplayer Rock Paper Scissors ⭐
+  ![wifu](https://github.com/amitanshusahu/realtime-multiplayer-game/assets/83657737/a5e0325d-0bdc-4fa0-9adb-5bf955ff0865)  socket Tv ⭐
 
 </h1>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  https://github.com/amitanshusahu/realtime-multiplayer-game/assets/83657737/8b1acc57-0032-4b7e-bcb3-d57719f039ef
+  img
   
 </div>
 
@@ -17,7 +17,7 @@
 ## 📌 Set up project
 - clone the repo
 ```bash
-git clone "https://github.com/amitanshusahu/realtime-multiplayer-game" && cd realtime-multiplayer-game"
+git clone "https://github.com/amitanshusahu/socket-tv" && cd socket-tv"
 ```
 - go to `server` folder and start server
 ```bash
